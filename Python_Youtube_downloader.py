@@ -4,7 +4,6 @@
 from pytube import YouTube
 
 #Used the def function 
-#To downloade the video 
 
 def download_video(url, save_path="."):
     try:
